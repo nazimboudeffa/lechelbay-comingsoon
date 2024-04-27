@@ -23,8 +23,8 @@ export default function Home() {
               <Image
                 src={facebook}
                 alt="Facebook"
-                width={24}
-                height={24}
+                width={48}
+                height={48}
               />
             </Link>
             <Link
@@ -35,8 +35,8 @@ export default function Home() {
               <Image
                 src={instagram}
                 alt="Instagram"
-                width={24}
-                height={24}
+                width={48}
+                height={48}
               />
             </Link>
             <Link
@@ -47,8 +47,8 @@ export default function Home() {
               <Image
                 src={tiktok}
                 alt="Twitter"
-                width={24}
-                height={24}
+                width={48}
+                height={48}
               />
             </Link>
             <Link
@@ -59,8 +59,8 @@ export default function Home() {
               <Image
                 src={snapchat}
                 alt="Snapchat"
-                width={24}
-                height={24}
+                width={48}
+                height={48}
               />
             </Link>
           </div>
