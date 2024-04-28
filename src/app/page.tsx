@@ -16,7 +16,7 @@ export default function Home() {
           </p>
           <div className="flex justify-center space-x-4 mt-4">
             <Link
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/p/Le-Chelbay-Concept-Store-100086985212546"
               target="_blank"
               rel="noreferrer"
             >
@@ -28,7 +28,7 @@ export default function Home() {
               />
             </Link>
             <Link
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/conceptstoreroanne"
               target="_blank"
               rel="noreferrer"
             >
@@ -40,25 +40,13 @@ export default function Home() {
               />
             </Link>
             <Link
-              href="https://www.tiktok.com"
+              href="https://www.tiktok.com/@conceptstore.le.chelbay"
               target="_blank"
               rel="noreferrer"
             >
               <Image
                 src={tiktok}
                 alt="Twitter"
-                width={48}
-                height={48}
-              />
-            </Link>
-            <Link
-              href="https://www.snapchat.com"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Image
-                src={snapchat}
-                alt="Snapchat"
                 width={48}
                 height={48}
               />
