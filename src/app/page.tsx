@@ -51,6 +51,17 @@ export default function Home() {
                 height={48}
               />
             </Link>
+            <Link
+              href="#"
+              rel="noreferrer"
+            >
+              <Image
+                src={snapchat}
+                alt="Snapchat"
+                width={48}
+                height={48}
+              />
+            </Link>
           </div>
           <p className="text-sm mt-4">
             Voir l&apos;état d&apos;avancement du site sur <span className="underline"><Link href="https://lechelbay.odoo.com">https://lechelbay.odoo.com</Link></span>
