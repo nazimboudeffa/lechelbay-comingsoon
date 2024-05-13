@@ -63,9 +63,6 @@ export default function Home() {
               />
             </Link>
           </div>
-          <p className="text-sm mt-4">
-            Voir l&apos;état d&apos;avancement du site sur <span className="underline"><Link href="https://lechelbay.odoo.com">https://lechelbay.odoo.com</Link></span>
-          </p>
         </div>
       </div>
     </main>
